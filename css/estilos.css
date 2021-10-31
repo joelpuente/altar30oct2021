@@ -1,0 +1,16 @@
+body{
+    background-image:url(../img/img02.png) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 800;
+    color: transparent;
+    background-image: url(https://media3.giphy.com/media/3o7buijTqhjxjbEqjK/giphy.gif?cid=ecf05e47zeoats6gjdosjqfpljkfqsdy71atrlkcai33jpcg&rid=giphy.gif&ct=g);
+    background-position: center;
+    -webkit-background-clip: text;
+
+}
